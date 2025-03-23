@@ -152,3 +152,4 @@ For more details about the NTIRE Workshop and challenge organizers, visit: [NTIR
 
 ## Others
 For more details, e.g., the important dates, the submission, the final scoring method, please see our [codalab](https://codalab.lisn.upsaclay.fr/competitions/21851).
+# CDFSOD_NTIRE
